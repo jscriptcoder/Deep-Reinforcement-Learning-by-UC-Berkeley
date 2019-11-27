@@ -2,8 +2,6 @@
 
 CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 
-**Website:** http://rail.eecs.berkeley.edu/deeprlcourse/
-
 ## Lectures
 
 1. [x] Introduction and Course Overview. [Lecture](https://www.youtube.com/watch?v=SinprXg2hUA&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=1)
