@@ -4,13 +4,13 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 
 ## Lectures
 
-1. [x] Introduction and Course Overview. [Lecture](https://www.youtube.com/watch?v=SinprXg2hUA&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=1)
-2. [x] Supervised Learning of Behaviors. [Lecture](https://www.youtube.com/watch?v=TUBBIgtQL_k&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=2)
-3. [x] TensorFlow and Neural Nets Review Session. [Lecture](https://www.youtube.com/watch?v=6PYJFUu3eLQ&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=3)
-4. [x] Introduction to Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=w_IIP-swuVo&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=4)
-5. [x] Policy Gradients. [Lecture](https://www.youtube.com/watch?v=Ds1trXd6pos&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=5)
-6. [x] Actor-Critic Algorithms. [Lecture](https://www.youtube.com/watch?v=EKqxumCuAAY&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=6)
-7. [x] Value Function Methods. [Lecture](https://www.youtube.com/watch?v=doR5bMe-Wic&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=7)
+1. [x] Introduction and Course Overview. [Lecture](https://www.youtube.com/watch?v=SinprXg2hUA&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=1). [Content](pdf/lec-1.pdf)
+2. [x] Supervised Learning of Behaviors. [Lecture](https://www.youtube.com/watch?v=TUBBIgtQL_k&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=2). [Content](pdf/lec-2.pdf)
+3. [x] TensorFlow and Neural Nets Review Session. [Lecture](https://www.youtube.com/watch?v=6PYJFUu3eLQ&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=3). [Content](pdf/lec-3.pdf)
+4. [x] Introduction to Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=w_IIP-swuVo&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=4). [Content](pdf/lec-4.pdf)
+5. [x] Policy Gradients. [Lecture](https://www.youtube.com/watch?v=Ds1trXd6pos&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=5). [Content](pdf/lec-5.pdf)
+6. [x] Actor-Critic Algorithms. [Lecture](https://www.youtube.com/watch?v=EKqxumCuAAY&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=6). [Content](pdf/lec-6.pdf)
+7. [x] Value Function Methods. [Lecture](https://www.youtube.com/watch?v=doR5bMe-Wic&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=7). [Content](pdf/lec-7.pdf)
 8. [ ] Deep RL with Q-functions
 9. [ ] Advanced Policy Gradients
 10. [ ] Model-based Planning
