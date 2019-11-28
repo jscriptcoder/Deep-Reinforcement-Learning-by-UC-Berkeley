@@ -11,7 +11,7 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 5. [x] Policy Gradients. [Lecture](https://www.youtube.com/watch?v=Ds1trXd6pos&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=5). [Content](pdf/lec-5.pdf)
 6. [x] Actor-Critic Algorithms. [Lecture](https://www.youtube.com/watch?v=EKqxumCuAAY&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=6). [Content](pdf/lec-6.pdf)
 7. [x] Value Function Methods. [Lecture](https://www.youtube.com/watch?v=doR5bMe-Wic&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=7). [Content](pdf/lec-7.pdf)
-8. [ ] Deep RL with Q-functions
+8. [x] Deep RL with Q-functions. [Lecture](https://www.youtube.com/watch?v=7Lwf-BoIu3M&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=8). [Content](pdf/lec-8.pdf)
 9. [ ] Advanced Policy Gradients
 10. [ ] Model-based Planning
 11. [ ] Model-based Reinforcement Learning
