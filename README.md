@@ -13,7 +13,7 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 7. [x] Value Function Methods. [Lecture](https://www.youtube.com/watch?v=doR5bMe-Wic&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=7). [Content](pdf/lec-7.pdf)
 8. [x] Deep RL with Q-functions. [Lecture](https://www.youtube.com/watch?v=7Lwf-BoIu3M&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=8). [Content](pdf/lec-8.pdf)
 9. [x] Advanced Policy Gradients. [Lecture](https://www.youtube.com/watch?v=uR1Ubd2hAlE&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=9). [Content](pdf/lec-9.pdf)
-10. [ ] Model-based Planning
+10. [x] Model-based Planning. [Lecture](https://www.youtube.com/watch?v=pE0GUFs-EHI&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=10). [Content](pdf/lec-10.pdf)
 11. [ ] Model-based Reinforcement Learning
 12. [ ] Model-based Policy Learning
 13. [ ] Variational Inference and Generative Models
