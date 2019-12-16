@@ -17,7 +17,7 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 11. [x] Model-based Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=6JDfrPRhexQ&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=12) | [Slides](pdf/lec-11.pdf)
 12. [x] Model-based Policy Learning. [Lecture](https://www.youtube.com/watch?v=9AbBfIgTzoo&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=13) | [Slides](pdf/lec-12.pdf)
 13. [ ] Variational Inference and Generative Models
-14. [ ] Control as Inference
+14. [ ] Control as Inference. [Lecture](https://www.youtube.com/watch?v=Pei6G8_3r8I&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=13) | [Slides](pdf/lec-14.pdf)
 15. [ ] Inverse Reinforcement Learning
 16. [ ] Transfer and Multi-task Learning
 17. [ ] Distributed RL
