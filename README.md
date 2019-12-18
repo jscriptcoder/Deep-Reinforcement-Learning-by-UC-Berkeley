@@ -21,7 +21,7 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 15. [x] Inverse Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=DP0SJrNgV60&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=14) | [Slides](pdf/lec-15.pdf)
 16. [ ] Transfer and Multi-task Learning. Lecture | Slides
 17. [ ] Distributed RL. Lecture | Slides
-18. [ ] Exploration (Part 1). [Lecture](https://www.youtube.com/watch?v=QAUDfIgXnjw&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=17) | [Slides](pdf/lec-18.pdf)
+18. [x] Exploration (Part 1). [Lecture](https://www.youtube.com/watch?v=QAUDfIgXnjw&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=17) | [Slides](pdf/lec-18.pdf)
 19. [ ] Exploration (Part 2). Lecture | Slides
 20. [ ] Meta-learning. Lecture | Slides
 21. [ ] Information Theory, Open Problems. Lecture | Slides
