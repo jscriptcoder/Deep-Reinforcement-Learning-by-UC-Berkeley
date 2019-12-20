@@ -16,11 +16,11 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 10. [x] Model-based Planning. [Lecture](https://www.youtube.com/watch?v=pE0GUFs-EHI) | [Slides](pdf/lec-10.pdf)
 11. [x] Model-based Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=6JDfrPRhexQ) | [Slides](pdf/lec-11.pdf)
 12. [x] Model-based Policy Learning. [Lecture](https://www.youtube.com/watch?v=9AbBfIgTzoo) | [Slides](pdf/lec-12.pdf)
-13. [ ] Variational Inference and Generative Models. Lecture | Slides
+13. [ ] Variational Inference and Generative Models. Lecture | [Slides](pdf/lec-13.pdf)
 14. [x] Control as Inference. [Lecture](https://www.youtube.com/watch?v=Pei6G8_3r8I) | [Slides](pdf/lec-14.pdf)
 15. [x] Inverse Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=DP0SJrNgV60) | [Slides](pdf/lec-15.pdf)
-16. [ ] Transfer and Multi-task Learning. Lecture | Slides
-17. [ ] Distributed RL. Lecture | Slides
+16. [ ] Transfer and Multi-task Learning. Lecture | [Slides](pdf/lec-16.pdf)
+17. [ ] Distributed RL. Lecture | [Slides](pdf/lec-17.pdf)
 18. [x] Exploration (Part 1). [Lecture](https://www.youtube.com/watch?v=QAUDfIgXnjw) | [Slides](pdf/lec-18.pdf)
 19. [x] Exploration (Part 2). [Lecture](https://www.youtube.com/watch?v=SA4FgI3_nmg) | [Slides](pdf/lec-19.pdf)
 20. [ ] Meta-learning. Lecture | [Slides](pdf/lec-20.pdf)
