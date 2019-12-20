@@ -23,5 +23,5 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 17. [ ] Distributed RL. Lecture | Slides
 18. [x] Exploration (Part 1). [Lecture](https://www.youtube.com/watch?v=QAUDfIgXnjw) | [Slides](pdf/lec-18.pdf)
 19. [x] Exploration (Part 2). [Lecture](https://www.youtube.com/watch?v=SA4FgI3_nmg) | [Slides](pdf/lec-19.pdf)
-20. [ ] Meta-learning. Lecture | Slides
-21. [ ] Information Theory, Open Problems. Lecture | Slides
+20. [ ] Meta-learning. Lecture | [Slides](pdf/lec-19.pdf)
+21. [ ] Information Theory, Open Problems. Lecture | [Slides](pdf/lec-20.pdf)
