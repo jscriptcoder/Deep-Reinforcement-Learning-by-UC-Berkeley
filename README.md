@@ -6,7 +6,7 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 
 1. [x] Introduction and Course Overview. [Lecture](https://www.youtube.com/watch?v=SinprXg2hUA) | [Slides](pdf/lec-1.pdf)
 2. [x] Supervised Learning of Behaviors. [Lecture](https://www.youtube.com/watch?v=TUBBIgtQL_k) | [Slides](pdf/lec-2.pdf)
-3. [x] TensorFlow and Neural Nets Review Session. [Lecture](https://www.youtube.com/watch?v=6PYJFUu3eLQ) | [Slides](pdf/lec-3.pdf)
+3. [ ] TensorFlow and Neural Nets Review Session. [Lecture](https://www.youtube.com/watch?v=6PYJFUu3eLQ) | [Slides](pdf/lec-3.pdf)
 4. [x] Introduction to Reinforcement Learning. [Lecture](https://www.youtube.com/watch?v=w_IIP-swuVo) | [Slides](pdf/lec-4.pdf)
 5. [x] Policy Gradients. [Lecture](https://www.youtube.com/watch?v=Ds1trXd6pos) | [Slides](pdf/lec-5.pdf)
 6. [x] Actor-Critic Algorithms. [Lecture](https://www.youtube.com/watch?v=EKqxumCuAAY) | [Slides](pdf/lec-6.pdf)
