@@ -24,4 +24,4 @@ CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
 18. [x] Exploration (Part 1). [Lecture](https://www.youtube.com/watch?v=QAUDfIgXnjw) | [Slides](pdf/lec-18.pdf)
 19. [x] Exploration (Part 2). [Lecture](https://www.youtube.com/watch?v=SA4FgI3_nmg) | [Slides](pdf/lec-19.pdf)
 20. [x] Meta-learning. [Lecture](https://www.youtube.com/watch?v=4qH_h5_V3O4) | [Slides](pdf/lec-20.pdf)
-21. [ ] Information Theory, Open Problems. Lecture | [Slides](pdf/lec-21.pdf)
+21. [x] Information Theory, Open Problems. [Lecture](https://www.youtube.com/watch?v=tzieElmtAjs) | [Slides](pdf/lec-21.pdf)
