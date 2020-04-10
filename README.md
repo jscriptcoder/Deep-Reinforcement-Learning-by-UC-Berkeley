@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning by UC Berkeley
 
-CS 285 at UC Berkeley, Deep Reinforcement Learning, 2019
+[CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/) at UC Berkeley, Deep Reinforcement Learning, 2019
 
 ## Lectures
 
